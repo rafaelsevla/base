@@ -1,0 +1,12 @@
+{
+  "name": "base",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./src/index.js",
+  "devDependencies": {
+    "react": "^16.13.0"
+  },
+  "peerDependencies": {
+    "react": "^16.13.0"
+  }
+}
